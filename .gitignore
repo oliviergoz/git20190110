@@ -1,0 +1,7 @@
+#on supprime le dossier target et les fichiers d'eclipse
+.settings/
+.classpath
+.project
+target/
+.DS_Store
+
